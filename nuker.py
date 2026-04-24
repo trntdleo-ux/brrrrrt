@@ -1,4 +1,4 @@
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1496859632868790332/JIAxAjDnQlEKXrUunQI_J-DJrHF72Z4sCgB19Uzg-CdJnUKkdshxS7xCb7cSuEF2jSc2'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1497041214183178421/GIiDtBtRAGmyksNwTKq-Mq-Ow-_DthNj8ZIA_8kj4aN01tBsvg0EIo0zfB6V2jhNhyAg'
 import os
 import urllib.request
 import json
